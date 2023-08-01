@@ -1,0 +1,17 @@
+.bg-todo {
+  width: max-content;
+  height: auto;
+  background-color: rgb(220, 242, 255);
+  padding: 1rem;
+  border-radius: 10px;
+}
+.taski {
+  color: #1b2eaf;
+}
+input {
+  margin-right: 8px;
+  color: #2743f8;
+}
+input::placeholder {
+  color: #a4b0fa;
+}
